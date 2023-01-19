@@ -1,7 +1,7 @@
 package function
 
 fun myFunction(fname: String){
-    println("Doe")
+    println(fname + " Doe")
 }
 fun main(){
     myFunction("Jhon")
