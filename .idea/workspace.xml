@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="[feat::]Add 8 class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clasS/9.kt" afterDir="false" />
+    <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clasS/10.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -38,9 +39,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._9Kt">
-    <configuration name="_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clasS._5Kt" />
+  <component name="RunManager" selected="Kotlin._10Kt">
+    <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clasS._10Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._10Kt" />
         <item itemvalue="Kotlin._9Kt" />
         <item itemvalue="Kotlin._8Kt" />
         <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
-        <item itemvalue="Kotlin._5Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674303759266</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="[feat::]Add 9 class">
+      <created>1674304396510</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674304396510</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,6 +233,7 @@
     <MESSAGE value="[feat::]Add 5 class" />
     <MESSAGE value="[feat::]Add 7 class" />
     <MESSAGE value="[feat::]Add 8 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 8 class" />
+    <MESSAGE value="[feat::]Add 9 class" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 9 class" />
   </component>
 </project>
