@@ -7,7 +7,7 @@ fun main(){
     programmer.describeYourself()
 }
 class Person(private var name:String,private var age: Int){
-    init {
+    init {           //constructor body
         println("Person $name was created")
     }
     constructor(name:String): this(name, Random().nextInt()){
