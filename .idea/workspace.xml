@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="[feat::]Add 9 class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/constuctors/2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/1.kt" afterDir="false" />
+    <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/constuctors/1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/constuctors/1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._1Kt (1)">
+  <component name="RunManager" selected="Kotlin._2Kt (1)">
     <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clasS._10Kt" />
       <module name="KotlinExercises" />
@@ -63,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice._2Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="constuctors._2Kt" />
       <module name="KotlinExercises" />
@@ -70,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clasS._9Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._2Kt (1)" />
         <item itemvalue="Kotlin._1Kt (1)" />
         <item itemvalue="Kotlin._2Kt" />
         <item itemvalue="Kotlin._1Kt" />
         <item itemvalue="Kotlin._10Kt" />
-        <item itemvalue="Kotlin._9Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674305492582</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="[feat::]Add 1 practice">
+      <created>1675341049808</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675341049808</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +248,7 @@
     <MESSAGE value="[feat::]Add 7 class" />
     <MESSAGE value="[feat::]Add 8 class" />
     <MESSAGE value="[feat::]Add 9 class" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 9 class" />
+    <MESSAGE value="[feat::]Add 1 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 1 practice" />
   </component>
 </project>
