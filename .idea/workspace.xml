@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/4.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,23 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._2Kt (1)">
-    <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clasS._10Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._4Kt">
     <configuration name="_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice._1Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constuctors._1Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +62,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice._3Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice._4Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._4Kt" />
+        <item itemvalue="Kotlin._3Kt" />
         <item itemvalue="Kotlin._2Kt (1)" />
         <item itemvalue="Kotlin._1Kt (1)" />
         <item itemvalue="Kotlin._2Kt" />
-        <item itemvalue="Kotlin._1Kt" />
-        <item itemvalue="Kotlin._10Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675341049808</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[feat::]Add 2 practice">
+      <created>1675374503355</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675374503355</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +257,7 @@
     <MESSAGE value="[feat::]Add 8 class" />
     <MESSAGE value="[feat::]Add 9 class" />
     <MESSAGE value="[feat::]Add 1 practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 1 practice" />
+    <MESSAGE value="[feat::]Add 2 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 2 practice" />
   </component>
 </project>
