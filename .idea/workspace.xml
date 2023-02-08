@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/7.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._6Kt">
-    <configuration name="_2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._2Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._7Kt">
     <configuration name="_3Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string._3Kt" />
       <module name="KotlinExercises" />
@@ -74,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._7Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
         <item itemvalue="Kotlin._5Kt" />
         <item itemvalue="Kotlin._4Kt (1)" />
         <item itemvalue="Kotlin._3Kt (1)" />
-        <item itemvalue="Kotlin._2Kt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675844145575</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="[feat::]Add 6 array">
+      <created>1675844358415</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1675844358415</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +318,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::]Add 4 function" />
     <MESSAGE value="[feat::]Add 5 function" />
     <MESSAGE value="[feat::]Add 6 function" />
     <MESSAGE value="[feat::]Add 7 function" />
@@ -336,6 +342,7 @@
     <MESSAGE value="[feat::]Add 2 array" />
     <MESSAGE value="[feat::]Add 4 array" />
     <MESSAGE value="[feat::]Add 5 array" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 5 array" />
+    <MESSAGE value="[feat::]Add 6 array" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 6 array" />
   </component>
 </project>
