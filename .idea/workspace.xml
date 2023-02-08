@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +42,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._7Kt">
-    <configuration name="_3Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._3Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_4Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._4Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._5Kt" />
+  <component name="RunManager" selected="Kotlin._10Kt">
+    <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._10Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,13 +64,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._8Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._9Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._10Kt" />
+        <item itemvalue="Kotlin._9Kt" />
+        <item itemvalue="Kotlin._8Kt" />
         <item itemvalue="Kotlin._7Kt" />
         <item itemvalue="Kotlin._6Kt" />
-        <item itemvalue="Kotlin._5Kt" />
-        <item itemvalue="Kotlin._4Kt (1)" />
-        <item itemvalue="Kotlin._3Kt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675844358415</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="[feat::]Add 7 array">
+      <created>1675844836605</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675844836605</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +329,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::]Add 5 function" />
     <MESSAGE value="[feat::]Add 6 function" />
     <MESSAGE value="[feat::]Add 7 function" />
     <MESSAGE value="[feat::]Add 8 function" />
@@ -343,6 +353,7 @@
     <MESSAGE value="[feat::]Add 4 array" />
     <MESSAGE value="[feat::]Add 5 array" />
     <MESSAGE value="[feat::]Add 6 array" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 6 array" />
+    <MESSAGE value="[feat::]Add 7 array" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 7 array" />
   </component>
 </project>
