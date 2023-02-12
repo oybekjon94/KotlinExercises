@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string/14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clasS/11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/11.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +40,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._14Kt">
-    <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._10Kt" />
+  <component name="RunManager" selected="Kotlin._11Kt (2)">
+    <configuration name="_11Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clasS._11Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._11Kt" />
+    <configuration name="_11Kt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice._11Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._11Kt (2)" />
+        <item itemvalue="Kotlin._11Kt (1)" />
         <item itemvalue="Kotlin._14Kt" />
         <item itemvalue="Kotlin._13Kt" />
         <item itemvalue="Kotlin._12Kt" />
-        <item itemvalue="Kotlin._11Kt" />
-        <item itemvalue="Kotlin._10Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675856324022</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="[feat::]Add 14 String">
+      <created>1675857399123</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675857399123</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +348,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::]Add 8 function" />
     <MESSAGE value="[feat::]Add 9 function" />
     <MESSAGE value="[feat::]Add 10 function" />
     <MESSAGE value="[feat::]Add 1 class" />
@@ -367,6 +372,7 @@
     <MESSAGE value="[feat::]Add 7 array" />
     <MESSAGE value="[feat::]Add 10 array" />
     <MESSAGE value="[feat::]Add 11 String" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 11 String" />
+    <MESSAGE value="[feat::]Add 14 String" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 14 String" />
   </component>
 </project>
