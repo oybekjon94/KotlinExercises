@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/clasS/11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array/11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/array/12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practice/17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/range/5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -40,37 +50,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._11Kt (2)">
-    <configuration name="_11Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clasS._11Kt" />
+  <component name="RunManager" selected="Kotlin._2Kt">
+    <configuration name="_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice._15Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11Kt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice._11Kt" />
+    <configuration name="_17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice._17Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._12Kt" />
+    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list._1Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._13Kt" />
+    <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list._2Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string._14Kt" />
+    <configuration name="_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string._8Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._11Kt (2)" />
-        <item itemvalue="Kotlin._11Kt (1)" />
-        <item itemvalue="Kotlin._14Kt" />
-        <item itemvalue="Kotlin._13Kt" />
-        <item itemvalue="Kotlin._12Kt" />
+        <item itemvalue="Kotlin._2Kt" />
+        <item itemvalue="Kotlin._1Kt" />
+        <item itemvalue="Kotlin._17Kt" />
+        <item itemvalue="Kotlin._8Kt" />
+        <item itemvalue="Kotlin._15Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675857399123</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="[feat::]Add 11 practice">
+      <created>1676186753243</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1676186753243</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,7 +365,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::]Add 9 function" />
     <MESSAGE value="[feat::]Add 10 function" />
     <MESSAGE value="[feat::]Add 1 class" />
     <MESSAGE value="[feat::]Add 2 class" />
@@ -373,6 +389,7 @@
     <MESSAGE value="[feat::]Add 10 array" />
     <MESSAGE value="[feat::]Add 11 String" />
     <MESSAGE value="[feat::]Add 14 String" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 14 String" />
+    <MESSAGE value="[feat::]Add 11 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 11 practice" />
   </component>
 </project>
