@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="[feat::]Add 2 list">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/list/9.kt" afterDir="false" />
+    <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map/1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map/2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map/3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map/4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/map/5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,37 +44,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._17Kt">
-    <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list._13Kt" />
+  <component name="RunManager" selected="Kotlin._5Kt">
+    <configuration name="_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map._1Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list._14Kt" />
+    <configuration name="_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map._2Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list._15Kt" />
+    <configuration name="_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map._3Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list._16Kt" />
+    <configuration name="_4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map._4Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list._17Kt" />
+    <configuration name="_5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map._5Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._17Kt" />
-        <item itemvalue="Kotlin._16Kt" />
-        <item itemvalue="Kotlin._15Kt" />
-        <item itemvalue="Kotlin._14Kt" />
-        <item itemvalue="Kotlin._13Kt" />
+        <item itemvalue="Kotlin._5Kt" />
+        <item itemvalue="Kotlin._4Kt" />
+        <item itemvalue="Kotlin._3Kt" />
+        <item itemvalue="Kotlin._2Kt" />
+        <item itemvalue="Kotlin._1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676372152233</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="[feat::]Add lists">
+      <created>1676545722327</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1676545722327</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,7 +373,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat::]Add 1 class" />
     <MESSAGE value="[feat::]Add 2 class" />
     <MESSAGE value="[feat::]Add 4 class" />
     <MESSAGE value="[feat::]Add 5 class" />
@@ -401,6 +397,7 @@
     <MESSAGE value="[feat::]Add 14 String" />
     <MESSAGE value="[feat::]Add 11 practice" />
     <MESSAGE value="[feat::]Add 2 list" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add 2 list" />
+    <MESSAGE value="[feat::]Add lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::]Add lists" />
   </component>
 </project>
