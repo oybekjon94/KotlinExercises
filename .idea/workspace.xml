@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca6e1ef-b075-433e-b868-0e95cc4e64d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/18.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_code_gson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Student.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev/21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/10.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/13.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mDev2/9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/references/1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinExercises.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +34,7 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Data Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -44,42 +55,49 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._19Kt">
+  <component name="RunManager" selected="Kotlin._12Kt">
+    <configuration name="_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mDev2._10Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mDev2._11Kt" />
+      <module name="KotlinExercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="_12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mDev._12Kt" />
+      <option name="MAIN_CLASS_NAME" value="mDev2._12Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mDev._13Kt" />
+    <configuration name="_8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mDev2._8Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mDev._14Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mDev._15Kt" />
-      <module name="KotlinExercises" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_19Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mDev._19Kt" />
+    <configuration name="_9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mDev2._9Kt" />
       <module name="KotlinExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._19Kt" />
-        <item itemvalue="Kotlin._15Kt" />
-        <item itemvalue="Kotlin._14Kt" />
-        <item itemvalue="Kotlin._13Kt" />
         <item itemvalue="Kotlin._12Kt" />
+        <item itemvalue="Kotlin._11Kt" />
+        <item itemvalue="Kotlin._10Kt" />
+        <item itemvalue="Kotlin._9Kt" />
+        <item itemvalue="Kotlin._8Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676970594910</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="[feat::]Add mDev">
+      <created>1677110205153</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1677110205153</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
